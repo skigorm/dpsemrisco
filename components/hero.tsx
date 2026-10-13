@@ -48,10 +48,6 @@ export function Hero() {
               Falar no WhatsApp
             </a>
           </div>
-
-          <p className="mt-5 text-xs text-white/55">
-            Atendimento de segunda a sexta, das 9h às 18h.
-          </p>
         </div>
 
         <div className="relative mx-auto w-full max-w-md lg:max-w-[460px]">
