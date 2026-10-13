@@ -50,7 +50,6 @@ export function SiteFooter() {
                 </a>
               </li>
             </ul>
-            <p className="mt-4 text-sm text-white/60">Atendimento: {site.hours}.</p>
           </div>
 
           <div>
