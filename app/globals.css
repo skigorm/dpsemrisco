@@ -1,0 +1,86 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* Brand palette */
+  --color-navy: #012559;
+  --color-navy-deep: #011a3e;
+  --color-orange: #de5a07;
+  --color-orange-dark: #b24606;
+  --color-orange-light: #f59a4a;
+  --color-ice: #f4f6fa;
+  --color-line: #dee3ec;
+  --color-graphite: #1e242e;
+
+  /* Semantic tokens */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --font-sans: var(--font-inter), 'Inter', Arial, 'Helvetica Neue', sans-serif;
+  --font-heading: var(--font-archivo), 'Archivo', Arial, 'Helvetica Neue', sans-serif;
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+}
+
+:root {
+  color-scheme: light;
+  --background: #ffffff;
+  --foreground: #1e242e;
+  --card: #ffffff;
+  --card-foreground: #1e242e;
+  --popover: #ffffff;
+  --popover-foreground: #1e242e;
+  --primary: #012559;
+  --primary-foreground: #ffffff;
+  --secondary: #f4f6fa;
+  --secondary-foreground: #012559;
+  --muted: #f4f6fa;
+  --muted-foreground: #5a6472;
+  --accent: #f4f6fa;
+  --accent-foreground: #012559;
+  --destructive: #b24606;
+  --border: #dee3ec;
+  --input: #dee3ec;
+  --ring: #012559;
+  --radius: 0.625rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-heading;
+  }
+}
