@@ -84,3 +84,38 @@
     @apply font-heading;
   }
 }
+
+.noticia-texto {
+  @apply text-base leading-relaxed text-graphite/90;
+}
+.noticia-texto > * + * {
+  @apply mt-4;
+}
+.noticia-texto h2,
+.noticia-texto h3 {
+  @apply mt-8 font-heading font-bold text-navy;
+}
+.noticia-texto h2 {
+  @apply text-xl;
+}
+.noticia-texto h3 {
+  @apply text-lg;
+}
+.noticia-texto a {
+  @apply font-medium text-orange-dark underline underline-offset-2;
+}
+.noticia-texto ul {
+  @apply list-disc pl-6;
+}
+.noticia-texto ol {
+  @apply list-decimal pl-6;
+}
+.noticia-texto li + li {
+  @apply mt-1;
+}
+.noticia-texto blockquote {
+  @apply border-l-4 border-orange pl-4 italic text-graphite/80;
+}
+.noticia-texto img {
+  @apply h-auto max-w-full rounded-lg;
+}

@@ -1,5 +1,5 @@
 export const site = {
-  url: 'https://dpsemrisco.vercel.app',
+  url: 'https://www.dpsemrisco.com.br',
   brand: 'DP Sem Risco',
   owner: 'Anderson Luiz de Oliveira',
   whatsappDisplay: '(61) 99955-1292',
@@ -11,7 +11,8 @@ export const site = {
 } as const
 
 export const nav = [
-  { label: 'Atuação', href: '#atuacao' },
-  { label: 'Sobre', href: '#sobre' },
-  { label: 'Contato', href: '#contato' },
+  { label: 'Atuação', href: '/#atuacao' },
+  { label: 'Sobre', href: '/#sobre' },
+  { label: 'Notícias', href: '/noticias' },
+  { label: 'Contato', href: '/#contato' },
 ] as const

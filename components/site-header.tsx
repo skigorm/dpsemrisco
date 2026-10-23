@@ -18,7 +18,7 @@ export function SiteHeader() {
   return (
     <header className="fixed inset-x-0 top-0 z-50 border-b border-line bg-background">
       <div className="mx-auto flex h-[70px] max-w-6xl items-center justify-between gap-4 px-4 sm:px-6">
-        <a href="#hero" className="flex items-center gap-2.5" aria-label={`${site.brand} — início`}>
+        <a href="/#hero" className="flex items-center gap-2.5" aria-label={`${site.brand} — início`}>
           <Image
             src="/logo-dp-sem-risco.png"
             alt={`Logo ${site.brand}`}
@@ -43,7 +43,7 @@ export function SiteHeader() {
             </a>
           ))}
           <a
-            href="#contato"
+            href="/#contato"
             className="inline-flex items-center rounded-md bg-orange px-4 py-2 text-sm font-semibold text-navy-deep transition-colors hover:bg-orange-light focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-navy"
           >
             Solicitar orçamento
@@ -76,7 +76,7 @@ export function SiteHeader() {
               </a>
             ))}
             <a
-              href="#contato"
+              href="/#contato"
               onClick={() => setOpen(false)}
               className="mt-2 inline-flex items-center justify-center rounded-md bg-orange px-4 py-3 text-base font-semibold text-navy-deep transition-colors hover:bg-orange-light"
             >

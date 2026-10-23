@@ -33,7 +33,7 @@ export function Hero() {
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
             <a
-              href="#contato"
+              href="/#contato"
               className="inline-flex items-center justify-center rounded-md bg-orange px-6 py-3 text-sm font-semibold text-navy-deep transition-colors hover:bg-orange-light focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
             >
               Solicitar orçamento

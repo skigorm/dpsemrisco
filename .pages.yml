@@ -1,0 +1,32 @@
+media:
+  input: public/imagens/noticias
+  output: /imagens/noticias
+
+content:
+  - name: noticias
+    label: Notícias
+    type: collection
+    path: content/noticias
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [titulo, data]
+      sort: [data]
+      default:
+        sort: data
+        order: desc
+    fields:
+      - name: titulo
+        label: Título
+        type: string
+        required: true
+      - name: data
+        label: Data
+        type: date
+        required: true
+      - name: imagem
+        label: Imagem
+        type: image
+        required: true
+      - name: body
+        label: Texto
+        type: rich-text
