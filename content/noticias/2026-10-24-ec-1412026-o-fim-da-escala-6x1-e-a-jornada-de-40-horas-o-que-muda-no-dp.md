@@ -107,11 +107,11 @@ Terceirizadas com contratos públicos vigentes (licitações, concessões, PPPs 
 O divisor mensal acompanha a jornada (semanal × 5):
 
 
-| Jornada semanal | Divisor |
-| --------------- | ------- |
-| 44h | 220 |
-| 42h | 210 |
-| 40h | 200 |
+| Jornada semanal / | Divisor |
+| ----------------- | ------- |
+| 44h / | 220 |
+| 42h / | 210 |
+| 40h / | 200 |
 
 
 **Exemplo:** salário de R$ 2.200,00
