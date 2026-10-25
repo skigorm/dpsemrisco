@@ -1,5 +1,5 @@
 ---
-titulo: "EC 141/2026: o fim da escala 6x1 e a jornada de 40 horas. O que muda no DP."
+titulo: "EC 141/2026: o fim da escala 6x1 e a jornada de 40 horas. O que muda no DP ?"
 data: 2026-10-24
 imagem: /imagens/noticias/Design sem nome (1).png
 ---
