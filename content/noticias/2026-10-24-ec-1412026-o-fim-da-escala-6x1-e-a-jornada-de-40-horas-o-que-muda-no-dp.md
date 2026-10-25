@@ -175,5 +175,5 @@ Quer mais conteúdo prático sobre DP, cálculos e eSocial? Siga o [@dpsemrisco 
 Fonte: [Emenda Constitucional nº 141, de 16 de outubro de 2026 (Planalto)](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm).
 
 Este conteúdo é informativo e não substitui a análise da convenção coletiva da sua categoria nem uma consultoria jurídica especializada.  
-  
+
 Por: Anderson Luiz - Tecnólogo de Recursos Humanos
