@@ -25,7 +25,7 @@ O resultado também repercute no valor da hora extra, cuja remuneração deve se
 
 Considere um exemplo hipotético com base mensal formada apenas por salário fixo de R$ 4.400, adicional de 50% e 20 horas extras no mês. A comparação abaixo é exclusivamente matemática e não pressupõe que os dois divisores sejam alternativas de livre escolha da empresa.
 
-![image.png](/imagens/noticias/image.png)
+![image.png](/imagens/noticias/image-1.png)
 
   
 A diferença é de **R$ 60,00 nas 20 horas extras**, antes de eventuais reflexos e encargos. Essa diferença não representa, por si só, um pagamento incorreto: a conclusão depende da regra aplicável ao vínculo, inclusive da negociação coletiva.
