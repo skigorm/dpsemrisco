@@ -25,14 +25,7 @@ O resultado também repercute no valor da hora extra, cuja remuneração deve se
 
 Considere um exemplo hipotético com base mensal formada apenas por salário fixo de R$ 4.400, adicional de 50% e 20 horas extras no mês. A comparação abaixo é exclusivamente matemática e não pressupõe que os dois divisores sejam alternativas de livre escolha da empresa.
 
-
-| Etapa do cálculo | Divisor 200 | Divisor 220 |
-| ----------------------------- | ----------- | ----------- |
-| Base mensal do exemplo | R$ 4.400,00 | R$ 4.400,00 |
-| Hora normal: base ÷ divisor | R$ 22,00 | R$ 20,00 |
-| Hora extra: hora normal × 1,5 | R$ 33,00 | R$ 30,00 |
-| Total de 20 horas extras | R$ 660,00 | R$ 600,00 |
-
+![image.png](/imagens/noticias/image.png)
 
   
 A diferença é de **R$ 60,00 nas 20 horas extras**, antes de eventuais reflexos e encargos. Essa diferença não representa, por si só, um pagamento incorreto: a conclusão depende da regra aplicável ao vínculo, inclusive da negociação coletiva.
@@ -80,7 +73,7 @@ O ponto central é distinguir a orientação do Tema 260 e da Súmula 431 da hip
 Compartilhe este conteúdo com quem atua no fechamento da folha e acompanhe o DP Sem Risco para mais orientações práticas. Informação técnica bem aplicada ajuda a transformar conferência em prevenção.
 
 Conteúdo educativo, que não substitui análise jurídica individualizada. Os exemplos são hipotéticos e não constituem apuração de crédito trabalhista.  
-  
+
 **Referências**
 
  [https://www.tst.jus.br/documents/d/guest/irr260-pdf-1](https://www.tst.jus.br/documents/d/guest/irr260-pdf-1)
