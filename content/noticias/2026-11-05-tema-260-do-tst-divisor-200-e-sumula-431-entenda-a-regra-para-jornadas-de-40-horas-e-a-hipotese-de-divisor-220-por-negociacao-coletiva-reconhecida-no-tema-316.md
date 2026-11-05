@@ -25,7 +25,11 @@ O resultado também repercute no valor da hora extra, cuja remuneração deve se
 
 Considere um exemplo hipotético com base mensal formada apenas por salário fixo de R$ 4.400, adicional de 50% e 20 horas extras no mês. A comparação abaixo é exclusivamente matemática e não pressupõe que os dois divisores sejam alternativas de livre escolha da empresa.
 
-![image.png](/imagens/noticias/image-1.png)
+- Referência de 44 horas semanais — divisor 220: hora normal de R$ 20,00 e hora extra de R$ 30,00.
+- Transição para 42 horas semanais, pela interpretação proporcional — divisor 210: hora normal de R$ 20,95 e hora extra de R$ 31,43.
+- Jornada de 40 horas semanais, pela regra geral do Tema 260 — divisor 200: hora normal de R$ 22,00 e hora extra de R$ 33,00.
+
+A comparação é **ilustrativa**: os divisores apresentados não representam alternativas de livre escolha da empresa. A definição do parâmetro aplicável exige observar a jornada e as regras que alcançam o vínculo, inclusive eventual negociação coletiva.
 
 A diferença é de **R$ 60,00 nas 20 horas extras**, antes de eventuais reflexos e encargos. Essa diferença não representa, por si só, um pagamento incorreto: a conclusão depende da regra aplicável ao vínculo, inclusive da negociação coletiva.
 
