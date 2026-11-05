@@ -25,9 +25,8 @@ O resultado também repercute no valor da hora extra, cuja remuneração deve se
 
 Considere um exemplo hipotético com base mensal formada apenas por salário fixo de R$ 4.400, adicional de 50% e 20 horas extras no mês. A comparação abaixo é exclusivamente matemática e não pressupõe que os dois divisores sejam alternativas de livre escolha da empresa.
 
-![image.png](/imagens/noticias/image-1.png)
+![image.png](blob:https:/app.pagescms.org/da2351b6-0f6f-4a60-a470-e10156be6dc2)
 
-  
 A diferença é de **R$ 60,00 nas 20 horas extras**, antes de eventuais reflexos e encargos. Essa diferença não representa, por si só, um pagamento incorreto: a conclusão depende da regra aplicável ao vínculo, inclusive da negociação coletiva.
 
 **Tema 316: quando a negociação coletiva admite divisor 220**
