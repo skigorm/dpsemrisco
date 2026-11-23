@@ -3,11 +3,11 @@ titulo: "EC 141/2026: o fim da escala 6x1 e a jornada de 40 horas. O que muda no
 data: 2026-10-24
 imagem: /imagens/noticias/Design sem nome (1).png
 ---
+****Por DP Sem Risco - Anderson Luiz | Notícia publicada em 24 de outubro de 2026.****
+
 Publicada no Diário Oficial da União em 16 de outubro de 2026 (edição extra), a Emenda Constitucional nº 141 é a maior mudança em jornada de trabalho desde a Constituição de 1988. Ela reduz o limite semanal de 44 para 40 horas e garante **2 dias de repouso semanal remunerado**, sem qualquer redução de salário.
 
 Para o Departamento Pessoal, isso significa revisar escalas, contratos, divisores de folha, acordos coletivos e o cálculo de DSR. Neste artigo, explicamos artigo por artigo e mostramos o que fazer na prática.
-
-## Resumo rápido
 
 ## Jornada semanal máxima
 
@@ -202,5 +202,3 @@ Quer mais conteúdo prático sobre DP, cálculos e eSocial? Siga o @dpsemrisco n
 Fonte: Emenda Constitucional nº 141, de 16 de outubro de 2026 — Planalto.
 
 Este conteúdo é informativo e não substitui a análise da convenção coletiva da sua categoria nem uma consultoria jurídica especializada.
-
-Por: Anderson Luiz — Tecnólogo de Recursos Humanos.
