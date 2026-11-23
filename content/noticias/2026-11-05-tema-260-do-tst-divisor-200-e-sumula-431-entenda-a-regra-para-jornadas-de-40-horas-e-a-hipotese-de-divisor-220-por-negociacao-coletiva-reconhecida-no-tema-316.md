@@ -7,7 +7,7 @@ imagem: /imagens/noticias/Fachada Aérea.jpg
 ---
 O Tribunal Superior do Trabalho reafirmou, no Tema 260, que empregados sujeitos ao regime geral do art. 58 da CLT, com jornada de 40 horas semanais, têm o salário-hora calculado pelo divisor 200. A orientação exige, porém, uma leitura atualizada: no Tema 316, julgado em outubro de 2026, o TST reconheceu a validade da negociação coletiva que fixa divisor 220 para essa jornada.
 
-**Por DP Sem Risco - Anderson Luiz | Notícia publicada em 5 de novembro de 2026, às 07:30 horário de Brasília.**
+******Por DP Sem Risco - Anderson Luiz | Notícia publicada em 05 de novembro de 2026.******
 
 **O que o Tema 260 reafirmou**
 
