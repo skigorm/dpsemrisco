@@ -6,7 +6,7 @@ imagem: /imagens/noticias/https__img5.migalhas.com.br__SL__gf_base__SL__empresas
 ---
 ***Decisão liminar preserva dois repousos semanais remunerados, estabelece regras para negociação coletiva e será submetida ao Plenário do STF.***
 
-*Publicado em 12 de novembro de 2026 | DP Sem Risco*
+****Por DP Sem Risco - Anderson Luiz | Notícia publicada em 12 de novembro de 2026.****
 
 O ministro Flávio Dino, do Supremo Tribunal Federal (STF), concedeu parcialmente, nesta quinta-feira (12), as medidas cautelares nas Ações Diretas de Inconstitucionalidade (ADIs) 8.041 e 8.042, que discutem dispositivos da Emenda Constitucional nº 141/2026. A decisão mantém a implementação da jornada de **42 horas semanais**, com dois repousos semanais remunerados, a partir de **16 de dezembro de 2026**, e estabelece regras para a adaptação ao novo regime.
 
